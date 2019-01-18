@@ -2,13 +2,13 @@
 Intel，AMD和VIA CPU微码存储库
 
 CPU微码存储库新闻源
-
+https://twitter.com/platomaniac
 CPU微代码存储库讨论主题
-
+https://www.win-raid.com/t3355f47-Intel-AMD-amp-VIA-CPU-Microcode-Repositories.html
 MC Extractor
-
+https://github.com/platomav/MCExtractor
 MC Extractor讨论主题
-
+https://www.win-raid.com/t2199f47-MC-Extractor-Intel-AMD-VIA-amp-Freescale-Microcode-Extraction-Tool-Discussion.html
 这是我们发现的每个最新生产的 Intel，AMD和VIA CPU微代码的集合。您可以使用MC Extractor立即检查微码是否已存在于存储库中。
 
 收集CPU微码对于升级目的非常重要，可以创建通用工具，帮助人们了解他们使用的微码，研究通用技术的工作原理，对于没有供应商代表想要在给定平台上工作的开发人员等。
